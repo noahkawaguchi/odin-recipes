@@ -1,1 +1,1 @@
-This is a project learning HTML using The Odin Project.
+This is a project in which I learn about HTML using The Odin Project.
