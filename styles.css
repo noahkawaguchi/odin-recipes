@@ -1,0 +1,25 @@
+*{
+    font-family: "Trebuchet MS", Tahoma, sans-serif;
+    background-color: rgb(45, 45, 45);
+    line-height: 1.5em;
+}
+html{
+    color: rgb(220, 220, 220);
+}
+a{
+    color:rgb(103, 184, 255);
+}
+body{
+    margin:2rem;
+}
+ul,ol,li,a{
+    background-color: transparent;
+}
+.list-div{
+    background-color: rgb(60, 0, 0);
+    width:fit-content;
+    padding:0.5em;
+    padding-right:3em;
+    border: 1px solid rgb(220, 220, 220);;
+    border-radius: 1em;
+}
