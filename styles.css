@@ -10,7 +10,7 @@ a{
     color:rgb(103, 184, 255);
 }
 body{
-    margin:2rem;
+    margin:2rem 10%;
 }
 ul,ol,li,a{
     background-color: transparent;
@@ -22,4 +22,16 @@ ul,ol,li,a{
     padding-right:3em;
     border: 1px solid rgb(220, 220, 220);;
     border-radius: 1em;
+}
+.img-and-intro .recipe-img, .img-and-intro .recipe-intro{
+    display:inline-block;
+    vertical-align: middle;
+}
+.recipe-img, .recipe-intro{
+    display: inline-block;
+    max-width:40%;
+    min-width: 25rem;
+}
+.recipe-img{
+    margin-right: 3%;
 }
