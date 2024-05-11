@@ -35,3 +35,18 @@ ul,ol,li,a{
 .recipe-img{
     margin-right: 3%;
 }
+.recipe-link-box{
+    display: inline-block;
+    margin:3rem 0;
+}
+.recipe-link{
+    background-color: rgb(60, 0, 0);
+    border: 10px ridge rgb(220, 220, 220);
+    padding:1rem;
+    text-decoration:none;
+    font-weight: 550;
+    text-transform: uppercase;
+    letter-spacing:2px;
+    margin-right:5rem;
+    margin-left:-2.5rem;
+}
